@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <Name value="TwitchParachuteSpawns" />
+  <DisplayName value="Twitch Parachute Spawns" />
+  <Description value="Makes Twitch spawns drop from parachutes if where they would have spawned has a clear view of the sky for 50m" />
+  <Website value="" />
+  <Author value="MrPurple6411" />
+  <Version value="1.0.0" />
+</xml>

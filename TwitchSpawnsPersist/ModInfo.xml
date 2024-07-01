@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <Name value="TwitchSpawnsPersist" />
+  <DisplayName value="Twitch Extension Not Required" />
+  <Description value="Removes the need for the Twitch Extension." />
+  <Website value="" />
+  <Author value="MrPurple6411" />
+  <Version value="1.0.0" />
+</xml>

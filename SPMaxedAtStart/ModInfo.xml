@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <Name value="SPMaxedAtStart" />
+  <DisplayName value="SP Maxed at Start" />
+  <Description value="Start the game with 300 SP." />
+  <Website value="" />
+  <Author value="MrPurple6411" />
+  <Version value="1.0.0" />
+</xml>
