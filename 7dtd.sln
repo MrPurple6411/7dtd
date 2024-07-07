@@ -18,7 +18,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LootStageBoost", "LootStage
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SPMaxedAtStart", "SPMaxedAtStart\SPMaxedAtStart.csproj", "{31BCBFCC-6FAA-4220-86A9-5BCF425E746C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XPathExtensions", "XPathExtentions\XPathExtensions.csproj", "{E8D10ECA-7635-491B-BD88-5F3B65155370}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XPathExtensions", "XPathExtentions\XPathExtensions.csproj", "{E8D10ECA-7635-491B-BD88-5F3B65155370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargerMapRevealRadius", "LargerMapRevealRadius\LargerMapRevealRadius.csproj", "{CD59ACDF-83FD-4693-BEF7-F00C2EB13D77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,6 +52,10 @@ Global
 		{E8D10ECA-7635-491B-BD88-5F3B65155370}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8D10ECA-7635-491B-BD88-5F3B65155370}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8D10ECA-7635-491B-BD88-5F3B65155370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD59ACDF-83FD-4693-BEF7-F00C2EB13D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD59ACDF-83FD-4693-BEF7-F00C2EB13D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD59ACDF-83FD-4693-BEF7-F00C2EB13D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD59ACDF-83FD-4693-BEF7-F00C2EB13D77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

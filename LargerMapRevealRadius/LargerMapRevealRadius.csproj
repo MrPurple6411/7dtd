@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<RootNamespace>LargerMapRevealRadius</RootNamespace>
+		<AssemblyName>LargerMapRevealRadius</AssemblyName>
+		<OutputPath>$(SolutionDir)bin\$(Configuration)\$(AssemblyName)\</OutputPath>
+	</PropertyGroup>
+</Project>
